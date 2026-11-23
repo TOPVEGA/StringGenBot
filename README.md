@@ -235,7 +235,7 @@ Developed under the **VEGA** project identity.
 - Developer: [@TopVeGa](https://t.me/TopVeGa)
 - Updates & Community: [@vegaone](https://t.me/vegaone)
 - Source reference: [@Logii3](https://t.me/Logii3)
-
+- Boot file: [@StrngGenBot](https://t.me/StrngGenBot)
 ## License & Copyright
 
 No standalone `LICENSE` file was included in the supplied archive. Add a license file before redistributing the project, and follow the licenses of all third-party libraries and components.
