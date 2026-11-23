@@ -251,3 +251,16 @@ Respect the rights of original authors and obtain permission before redistributi
 *Session Generation • Telegram Automation • Account Tools*
 
 </div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════ --><!--                       Copyright | Footer                              --><!-- ═══════════════════════════════════════════════════════════════════════ --><div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:0F172A&height=4&width=40%&section=header" />
+  <br><br>  <p style="color: #9CA3AF; font-size: 14px;">
+    <b style="color: #3B82F6;">Brand:</b> VEGA &amp; Logic &nbsp;|&nbsp;
+    <b style="color: #3B82F6;">Copyright:</b> © 2015 - 2025
+  </p>
+  <p style="color: #6B7280; font-size: 12px;">
+  </p>
+</div><br><!-- Smooth Gradient Footer Background --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" /></div>
+
+
